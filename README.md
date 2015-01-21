@@ -1,2 +1,2 @@
-# OpenAIRE Guidelines: For Data Archives
+# OpenAIRE Guidelines
 
