@@ -59,8 +59,6 @@ Acknowledgements & Contributors
 - Pedro Principe (University of Minho, Portugal)
 - Eloy Rodrigues (University of Minho, Portugal)
 - Najla Rettberg (University of Goettingen, Germany)
-- to be completed
-
 
 OpenAIRE application of DataCite Metadata Schema
 ------------------------------------------------
